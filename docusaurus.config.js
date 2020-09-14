@@ -1,13 +1,13 @@
 module.exports = {
   title: "We do takeaway",
   tagline:
-    "Documentation and architcture for FOSS food ordering and delivery platform",
-  url: "https://www.wedotakeaway.com",
+    "Documentation and architecture for FOSS food ordering and delivery platform",
+  url: "https://we-Do-Takeaway.github.io",
   baseUrl: "/",
+  projectName: "docs-and-architecture", // Usually your repo name.
+  organizationName: "We-Do-Takeaway", // Usually your GitHub org/user name.
   onBrokenLinks: "throw",
   favicon: "img/logo.jpg",
-  organizationName: "We-Do-Takeaway", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
   themeConfig: {
     navbar: {
       title: "We do takeaway",
