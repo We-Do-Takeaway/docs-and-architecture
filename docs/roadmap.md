@@ -18,7 +18,7 @@ Ideally all these ideas should be tested at every stage with real users, anyone 
 
 ## Vision for phase 1
 
-The ultimate goal for the project is big a complicated but the focus initially needs to delivery something that delivers the simplest end to end experience.
+The ultimate goal for the project is big a complicated but the focus initially needs to build something that delivers the simplest end to end experience.
 
 >*As a customer of "We Do Takeaway" I can view a list of items in a menu, pick the things I want and place the order. The restaurant can see the order and once they are ready can update the status of the order and allocate the delivery to a driver. The driver can see the order number and customer address and then once they have delivered the items can mark the order as delivered.*
 

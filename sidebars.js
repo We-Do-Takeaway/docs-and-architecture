@@ -1,5 +1,5 @@
 module.exports = {
   someSidebar: {
-    Documents: ["intro1", "roadmap"],
+    Documents: ["intro1", "roadmap", "hld", "customerapi"],
   },
 };
